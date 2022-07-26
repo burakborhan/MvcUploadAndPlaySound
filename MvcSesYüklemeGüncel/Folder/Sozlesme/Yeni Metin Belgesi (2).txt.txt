@@ -1,0 +1,3 @@
+
+
+metadata=res://*/DBModel.csdl|res://*/DBModel.ssdl|res://*/DBModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=Server=DESKTOP-05G6QG0\SQLEXPRESS;initial catalog=musicPlayerDB;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName = "System.Data.EntityClient
